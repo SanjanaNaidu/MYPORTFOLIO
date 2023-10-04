@@ -1,0 +1,65 @@
+/* education.css */
+
+#education {
+   
+    padding: 40px 0;
+    display:flex;
+    
+}
+
+.educationContainer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.EducationTitle {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: yellow;
+}
+
+.Universitydetails {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 50px 50px;
+}
+
+.universityInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.UNCC,
+.jntuk {
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 20px;
+}
+
+h4 {
+    font-size: 18px;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+    font-size: 16px;
+}
+
+big {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.educationText ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+/* Add any additional styling as needed */
+.educationText {
+    flex: 1; /* Allow the text to grow and take available space */
+    margin-left: 20px; /* Add space between the image and text */
+}

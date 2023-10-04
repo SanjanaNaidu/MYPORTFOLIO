@@ -1,0 +1,85 @@
+#intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: calc(100vh - 4rem);
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.text-container {
+    flex: 1;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: left;
+}
+
+.hello {
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+
+.introName {
+    color: yellow;
+}
+
+.btn {
+    background: white;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.btnImg {
+    object-fit: cover;
+    margin-right: 0.25rem;
+    height: 1rem;
+}
+
+.bg {
+    width: 40%; /* Adjust the width as needed */
+    height: auto;
+    object-fit: cover;
+}
+@media screen and (max-width:840px){
+    .bg{
+        right:-20vw;
+    }
+    .introContent{
+        font-size: 10vw;
+    }
+    .hello{
+        font-size: 4.5vw;
+    }
+}
+/* intro.css */
+/* Add styles for social icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Add spacing between the button and icons */
+}
+
+.icon {
+    font-size: 1.5rem; /* Adjust the icon size */
+    margin: 0 10px; /* Add spacing between icons */
+    color: #558bd1; /* Change icon color as needed */
+}
+.btn-resume {
+    background: white;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.6rem 1.4rem; /* Reduced horizontal padding */
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 1rem;
+    /* Add spacing between the "Resume" button and the "Hire Me" button */
+}

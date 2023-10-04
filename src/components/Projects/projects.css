@@ -1,0 +1,58 @@
+#projects {
+    
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column; /* Align content in a column */
+    align-items: center; /* Center items horizontally */
+}
+
+.projects-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.ProjectTitle {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: yellow;
+}
+
+.ProjectList {
+    display: flex;
+    align-items: flex-start; /* Align items to the top */
+    margin-bottom: 20px;
+    padding: 20px 20px;
+}
+
+.ProjectDesc {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.ProjectDesc h4 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.ProjectDesc p {
+    margin: 0;
+    font-size: 16px;
+}
+
+/* Style images similarly to education */
+.Pred,
+.yelp,
+.Zomato,
+.energy-gen,
+.Chatbot,
+.HospitalDataManagement,
+.Cartoonify,
+.SinglePage,
+.Social_net {
+    max-width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+/* Add any additional styling as needed */
