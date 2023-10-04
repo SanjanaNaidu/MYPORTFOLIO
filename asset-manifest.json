@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MYPORTFOLIO/static/css/main.04ce09a1.css",
+    "main.js": "/MYPORTFOLIO/static/js/main.a1623227.js",
+    "static/media/IMG_4317-01Sanjana.jpeg": "/MYPORTFOLIO/static/media/IMG_4317-01Sanjana.bc01ef41beed909e2816.jpeg",
+    "static/media/JNTUK.png": "/MYPORTFOLIO/static/media/JNTUK.6e13d90c8f2367a147fc.png",
+    "static/media/yelp_logo.png": "/MYPORTFOLIO/static/media/yelp_logo.5598f46054e1cf6096aa.png",
+    "static/media/UNCC.png": "/MYPORTFOLIO/static/media/UNCC.ffb69d3efdedf0618809.png",
+    "static/media/dxc.png": "/MYPORTFOLIO/static/media/dxc.f7545ca84c7e95a10f06.png",
+    "static/media/contactImg.png": "/MYPORTFOLIO/static/media/contactImg.5f4f45b80bf2dc023c89.png",
+    "static/media/gradient.png": "/MYPORTFOLIO/static/media/gradient.1f8e2e6994f4dc6652f8.png",
+    "static/media/unclogo.png": "/MYPORTFOLIO/static/media/unclogo.cd6acd2d2799f1a76c56.png",
+    "index.html": "/MYPORTFOLIO/index.html",
+    "main.04ce09a1.css.map": "/MYPORTFOLIO/static/css/main.04ce09a1.css.map",
+    "main.a1623227.js.map": "/MYPORTFOLIO/static/js/main.a1623227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ce09a1.css",
+    "static/js/main.a1623227.js"
+  ]
+}
