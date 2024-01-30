@@ -35,7 +35,7 @@ const Experience = () => {
                     <img src={gradient} alt="gradient" className="experienceListImg" />
                     <div className="ExperienceDesc">
                         <h4>Software Engineer Intern</h4>
-                        <p>May 2023 - Aug 2024</p>
+                        <p>May 2023 - Aug 2023</p>
                         <p>
                             <ul>
                               <li>Collaborated with a team of 11 engineers to develop a gym-focused application.</li>
@@ -59,7 +59,7 @@ const Experience = () => {
                     <img src={dxc} alt="dxc" className="experienceListImg" />
                     <div className="ExperienceDesc">
                         <h4>Software Engineer</h4>
-                        <p>Jan 2023 - May 2024</p>
+                        <p>Aug 2020- July 2022</p>
                         <p>
                             <ul>
                              <li>Database Software Development, Migration, backup, Storage Management, performed recovery, quality testing, and scheduled deployment activities in SQL Servers.</li>
