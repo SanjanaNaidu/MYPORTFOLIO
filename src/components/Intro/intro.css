@@ -23,7 +23,7 @@
 }
 
 .introName {
-    color: yellow;
+    color: rgb(26, 108, 196);
 }
 
 .btn {
@@ -83,3 +83,4 @@
     margin-top: 1rem;
     /* Add spacing between the "Resume" button and the "Hire Me" button */
 }
+

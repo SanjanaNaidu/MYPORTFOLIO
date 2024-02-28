@@ -30,7 +30,7 @@ const Experience = () => {
                         </ul>
                     </div>
                 </div>
-
+                
                 <div className="experienceList">
                     <img src={gradient} alt="gradient" className="experienceListImg" />
                     <div className="ExperienceDesc">

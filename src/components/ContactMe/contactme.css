@@ -13,7 +13,7 @@
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
-    color: #edede9;
+    color: black;
 }
 
 .contact-info h2 {
@@ -35,11 +35,11 @@
 .icon {
     font-size: 24px;
     margin-right: 10px;
-    color: rgb(241, 241, 229);
+    color:black;
 }
 
 /* Center the Twitter link text */
 .contact-item a {
     text-align: center;
-    color: rgb(231, 231, 224);
+    color: black;
 }

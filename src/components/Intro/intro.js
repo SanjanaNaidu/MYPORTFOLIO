@@ -20,13 +20,14 @@ const Intro = () => {
                 <div>
                     <span className="IntroText">
                         I'm <span className="introName">Sanjana Naidu Gedela</span>
-                        <br />Master's student in Computer Science| Seeking for Full Time opportunities
+                        <br />Master's student in Computer Science| Seeking for Full Time opportunities May 2024|
+                        Minor: Data Science & Information Privacy and Security
                     </span>
                 </div>
                 <Link to="hire-me-section" smooth={true} duration={500}>
                     
                 </Link>
-                <a href="https://drive.google.com/file/d/1c0ziGjgcj5lx8a8OmvQeHJ2zQxIbWdi7/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1KjxCJwqoV9tfuvSTCq6CEpEjjEHlIjQy/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-resume"> 
                         <FontAwesomeIcon icon={faFilePdf} className="icon" style={{ marginRight: '5px' }} />
                         Resume

@@ -15,7 +15,7 @@
     text-align: center;
     font-size: 24px;
     margin-bottom: 20px;
-    color: yellow;
+    color: rgb(26, 108, 196);
 }
 
 .experienceList {
@@ -34,6 +34,7 @@
 .ExperienceDesc {
     flex: 1;
     margin-left: 20px;
+    text-align: justify;
 }
 
 h4 {
